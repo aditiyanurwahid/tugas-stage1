@@ -1,0 +1,15 @@
+section {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+body {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  background-color: whitesmoke;
+}
+
+.navbar {
+  margin-top: 0rem;
+}
