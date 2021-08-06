@@ -7,9 +7,18 @@ body {
   margin-bottom: 2rem;
   margin-left: 2rem;
   margin-right: 2rem;
-  background-color: whitesmoke;
+  background-color: lightcyan;
 }
 
 .navbar {
   margin-top: 0rem;
+}
+
+section {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#jarakLooping {
+  margin-top: 10 rem;
 }
