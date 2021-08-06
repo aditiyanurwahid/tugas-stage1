@@ -22,7 +22,7 @@ const allCountry = fetch("https://covid19.mathdro.id/api/confirmed")
   .then((response) => response.json())
   .then((data) => {
     console.log(data);
-    for (let i = 0; i <= 494; i++) {
+    for (let i = 0; i <= 200; i++) {
       document.getElementById("semuaNegara").innerHTML += `
       <section>
         <div class="container-fluid">
